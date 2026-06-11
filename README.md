@@ -37,9 +37,11 @@ The application allows users to create, update, delete, and mark tasks as comple
 ## 📂 Project Structure
 
 ```text
-ToDo-List/
+ToDo List/
 │
 ├── index.html
+├── style.css
+├── script.js
 ├── screenshots/
 │   └── todo-app.png
 └── README.md
@@ -58,6 +60,7 @@ Through this project, I practiced:
 - Async/Await
 - User Interface Design
 - Problem Solving
+- Separation of Concerns (HTML, CSS, JavaScript)
 
 ---
 
